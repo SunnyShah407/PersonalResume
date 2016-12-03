@@ -1,3 +1,13 @@
+.header {
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: bungee;
+}
+
+.last-updated {
+    color: #000000;
+}
+
 #headshot {
     display: block;
     margin: auto;
@@ -5,16 +15,7 @@
 }
 
 #name {
-    text-align: center;
     color: #8BC34A;
-    letter-spacing: 4px;
-    font-family: bungee
-}
-
-#job-title {
-    text-align: center;
-    letter-spacing: 4px;
-    font-family: bungee;
 }
 
 .category-label {
@@ -26,10 +27,9 @@
 }
 
 .bulletpoint-header1,
-.bulletpoint-header2 {
-	font-family: 'Inconsolata', monospace;
-}
-
-body {
-    padding-left: 20px;
+.bulletpoint-header2,
+.school,
+.class-name,
+.date {
+    font-family: 'Inconsolata', monospace;
 }
