@@ -1,11 +1,11 @@
+body {
+    background-color: #111111;
+}
+
 #headshot {
     display: block;
     margin: auto;
     border-radius: 50%;
-}
-
-body {
-	background-color: #111111;
 }
 
 #name {
@@ -21,7 +21,7 @@ body {
     font-family: bungee;
 }
 
-h2 {
+.category-label {
     font-weight: bold;
     color: #8BC34A;
     letter-spacing: 3px;
