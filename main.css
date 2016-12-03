@@ -1,7 +1,3 @@
-body {
-    background-color: #111111;
-}
-
 #headshot {
     display: block;
     margin: auto;
@@ -26,4 +22,14 @@ body {
     color: #8BC34A;
     letter-spacing: 3px;
     font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+}
+
+.bulletpoint-header1,
+.bulletpoint-header2 {
+	font-family: 'Inconsolata', monospace;
+}
+
+body {
+    padding-left: 20px;
 }
