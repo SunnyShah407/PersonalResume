@@ -1,0 +1,29 @@
+#headshot {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+body {
+	background-color: #111111;
+}
+
+#name {
+    text-align: center;
+    color: #8BC34A;
+    letter-spacing: 4px;
+    font-family: bungee
+}
+
+#job-title {
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: bungee;
+}
+
+h2 {
+    font-weight: bold;
+    color: #8BC34A;
+    letter-spacing: 3px;
+    font-family: 'Inconsolata', monospace;
+}
