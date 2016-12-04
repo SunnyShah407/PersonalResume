@@ -33,3 +33,17 @@
 .date {
     font-family: 'Inconsolata', monospace;
 }
+
+.complete {
+    font-weight: bold;
+    color: #8BC34A;
+}
+
+.in-progress {
+    color: pink;
+}
+
+.coming-up {
+    font-style: italic;
+    color: #000000;
+}
