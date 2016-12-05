@@ -4,10 +4,6 @@
     font-family: bungee;
 }
 
-.last-updated {
-    color: #000000;
-}
-
 #headshot {
     display: block;
     margin: auto;
@@ -26,8 +22,23 @@
     text-transform: uppercase;
 }
 
-.bulletpoint-header1,
 .bulletpoint-header2,
 .date {
+    font-family: 'Inconsolata', monospace;
+    color: #F5F5F5;
+}
+
+.description,
+.detail {
+    color: #BDBDBD;
+}
+
+.bulletpoint-header1,
+.category-label {
+    font-family: bungee;
+}
+
+.about-me {
+    text-align: center;
     font-family: 'Inconsolata', monospace;
 }
